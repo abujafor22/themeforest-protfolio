@@ -1,0 +1,33 @@
+.banar-parent{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 680px;
+    
+}
+.banar-imges{
+    background-image: url(/images/header_bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banar-info{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.banar-info h3{
+    font-size: 45px;
+    font-weight: 600;
+    color: rgba(71, 71, 71, 1);
+    text-align: left;
+}
+.banar-info h1{
+   color: var(--Dark 01, rgba(24, 24, 24, 1));
+   font-weight: 700;
+   font-size: 85px;
+}
+.banar-img img{
+    max-width: 582px;
+    vertical-align: middle;
+}

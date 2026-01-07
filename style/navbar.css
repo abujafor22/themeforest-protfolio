@@ -13,6 +13,11 @@
     width: 71%;
     margin: 0 auto;
 }
+.pragraph-style{
+    color: rgba(117, 117, 117, 1);
+    font-size: 18px;
+    font-weight: 400;
+}
 .btn-1{
     background-color: #FD6E0A;
     color: white;
